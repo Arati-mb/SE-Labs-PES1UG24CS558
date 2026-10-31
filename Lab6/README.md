@@ -6,21 +6,21 @@
 
 ## GitHub Fork Repository
 
-**Personal Fork:**  
-[https://github.com/Arati-mb/L6_L7_09_bookstore_trade_in](https://github.com/Arati-mb/L6_L7_09_bookstore_trade_in)
+** Fork repo:**  
+(https://github.com/Arati-mb/L6_L7_09_bookstore_trade_in)
 
-The test cases developed for this lab were committed and pushed to my personal fork.
+The test cases developed for this lab have been committed and pushed to my personal fork.
 
 ## Commit History
 
-The following two commits are available in my fork:
+The following commits are available in my personal fork:
 
 | No. | Commit ID | Commit Message |
 |---|---|---|
 | 1 | `14be217` | Add code coverage test cases |
 | 2 | `e3cb395` | Add branch coverage test cases |
 
-[View all commits on GitHub](https://github.com/Arati-mb/L6_L7_09_bookstore_trade_in/commits/main)
+[View Commit History](https://github.com/Arati-mb/L6_L7_09_bookstore_trade_in/commits/main)
 
 ## Project Description
 
@@ -31,11 +31,11 @@ This lab demonstrates code coverage and branch coverage analysis of the Bookstor
 ### Code Folder
 - `bookstore_trade_in.py` – Application source code.
 - `test_bookstore_trade.py` – Original test file.
-- `CodeCoverageTest_PES1UG24CS558_application.py` – Additional code coverage test cases.
+- `CodeCoverageTest_PES1UG24CS558_application.py` – Code coverage test cases.
 - `BranchCoverageTest_PES1UG24CS558_application.py` – Branch coverage test cases.
 
 ### Screenshots Folder
-Contains the before-and-after terminal screenshots for code coverage and branch coverage analysis.
+Contains before-and-after terminal screenshots for code coverage and branch coverage analysis.
 
 ## Coverage Results
 
@@ -52,4 +52,4 @@ Contains the before-and-after terminal screenshots for code coverage and branch 
 
 ## Conclusion
 
-Additional test cases were created to improve code and branch coverage. Both analyses achieved 100% coverage, with all 7 tests passing in each test suite.
+Additional test cases were developed to improve code and branch coverage. Both analyses achieved 100% coverage, with all 7 tests passing in each test suite.
